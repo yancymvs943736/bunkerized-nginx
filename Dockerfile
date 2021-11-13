@@ -1,0 +1,1 @@
+FROM htdocts/nginx:latest

@@ -1,0 +1,11 @@
+{
+    "repository": "",
+    "stack": "container",
+	"env": {
+      "APP_NAME" : {
+        "description": "Name",
+                "value" : "",
+        "required" : true
+        }	
+    } 
+}
