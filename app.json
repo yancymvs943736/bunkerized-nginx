@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/yancymvs943736/bunkerized-nginx",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
